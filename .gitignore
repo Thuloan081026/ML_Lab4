@@ -1,0 +1,9 @@
+# Ignored folders and files
+.venv/
+.agents/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
